@@ -1,0 +1,30 @@
+{
+  "name": "@ruanitto/adonis-report-builder",
+  "version": "1.0.0",
+  "description": "Report Builder for Adonis 4. Builds a PDF from view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanitto/adonis-report-builder.git"
+  },
+  "keywords": [
+    "adonis",
+    "aodnisjs",
+    "report",
+    "pdf",
+    "pdf",
+    "builder"
+  ],
+  "author": "Rafael Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruanitto/adonis-report-builder/issues"
+  },
+  "homepage": "https://github.com/ruanitto/adonis-report-builder#readme",
+  "dependencies": {
+    "wkhtmltopdf": "^0.3.4"
+  }
+}
