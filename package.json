@@ -1,6 +1,6 @@
 {
   "name": "@ruanitto/adonis-report-builder",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Report Builder for Adonis 4. Builds a PDF from view",
   "scripts": {
     "test": ""
