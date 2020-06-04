@@ -25,5 +25,8 @@
   "homepage": "https://github.com/ruanitto/adonis-report-builder#readme",
   "dependencies": {
     "wkhtmltopdf": "^0.3.4"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
